@@ -1,0 +1,5 @@
+--[[
+]]
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Goat-Hub103/BallingScript/main/Protected_4672335616738771.txt"))()
+--[[
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JulHubz/JulHub/main/JulHub"))()
